@@ -4,3 +4,6 @@
 
 # Запуск тестов:
 pytest -v
+
+## Автор: Elmar Rahimov
+## Автор: Elmar Rahimov
